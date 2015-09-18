@@ -5,3 +5,5 @@ authors = ["Kit La Touche <kit@transneptune.net>"]
 
 [dependencies]
 iron = "*"
+router = "*"
+urlencoded = "*"
